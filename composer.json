@@ -1,0 +1,12 @@
+{
+    "name": "hythes/pegangansiswa",
+    "authors": [
+        {
+            "name": "Hythes",
+            "email": "hanifsetyananda17@gmail.com"
+        }
+    ],
+    "require": {
+    	"kreait/firebase-php": "^4.18"
+    }
+}
